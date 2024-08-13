@@ -1,0 +1,5 @@
+IPython
+folium
+pandas
+random
+unicodedata
